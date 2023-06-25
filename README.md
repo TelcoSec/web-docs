@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Active Directory Attacks
+title: TelcoSec Web Docs
 permalink: /
 cover: https://learn.ad-attacks.com/assets/img/Active-Directory-Attacks.png
 ---
